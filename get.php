@@ -31,6 +31,8 @@
             $div = $num1 / $num2;
             echo $div;
           }
+        }else{
+          echo "+,-.×,÷を選択してください";
         }
       ?>
     </div>
