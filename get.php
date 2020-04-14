@@ -26,7 +26,7 @@
           echo $mul;
         } else if ($operation === "div") {
           if ($num2 == 0) {
-            echo ("error");
+            echo ("エラー");
           } else {
             $div = $num1 / $num2;
             echo $div;
